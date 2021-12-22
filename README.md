@@ -8,7 +8,8 @@ Import the numpy module to use the built-in functions for calculation
 ### Step 2: 
 Get the input for list 1 and 2
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  
+![formula](https://github.com/RanjithD18/DISTANCE-BETWEEN-TWO-POINTS/blob/main/formula.JPG?raw=true)
 ### Step 4: 
 Print the distance
 ### Step 5: 
